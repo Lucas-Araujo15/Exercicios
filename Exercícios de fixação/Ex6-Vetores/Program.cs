@@ -62,8 +62,8 @@ namespace Ex6_Vetores
                     }
                     j++;
 
-                } while (repetir == true);
-            } while (confirmacao == true);
+                } while (repetir);
+            } while (confirmacao);
 
         }
     }

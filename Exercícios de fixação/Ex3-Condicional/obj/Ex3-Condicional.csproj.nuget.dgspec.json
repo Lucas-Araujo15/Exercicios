@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\Exercícios de fixação\\Ex3-Condicional\\Ex3-Condicional.csproj": {}
+    "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\EXERCÍCIOS\\Exercícios de fixação\\Ex3-Condicional\\Ex3-Condicional.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\Exercícios de fixação\\Ex3-Condicional\\Ex3-Condicional.csproj": {
+    "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\EXERCÍCIOS\\Exercícios de fixação\\Ex3-Condicional\\Ex3-Condicional.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\Exercícios de fixação\\Ex3-Condicional\\Ex3-Condicional.csproj",
+        "projectUniqueName": "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\EXERCÍCIOS\\Exercícios de fixação\\Ex3-Condicional\\Ex3-Condicional.csproj",
         "projectName": "Ex3-Condicional",
-        "projectPath": "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\Exercícios de fixação\\Ex3-Condicional\\Ex3-Condicional.csproj",
+        "projectPath": "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\EXERCÍCIOS\\Exercícios de fixação\\Ex3-Condicional\\Ex3-Condicional.csproj",
         "packagesPath": "C:\\Users\\Luisa Oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\Exercícios de fixação\\Ex3-Condicional\\obj\\",
+        "outputPath": "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\EXERCÍCIOS\\Exercícios de fixação\\Ex3-Condicional\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

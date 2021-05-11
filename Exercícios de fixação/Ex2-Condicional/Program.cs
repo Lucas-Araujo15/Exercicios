@@ -38,6 +38,7 @@ namespace Ex2_Condicional
                 else
                 {
                     confirmacao = false;
+                    Console.WriteLine("Opção inválida. Favor, digite novamente!\n");
                 }
             } while (confirmacao == false);
         }

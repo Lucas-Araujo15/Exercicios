@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\Exercícios de fixação\\Ex6-Vetores\\Ex6-Vetores.csproj",
+      "projectUniqueName": "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\EXERCÍCIOS\\Exercícios de fixação\\Ex6-Vetores\\Ex6-Vetores.csproj",
       "projectName": "Ex6-Vetores",
-      "projectPath": "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\Exercícios de fixação\\Ex6-Vetores\\Ex6-Vetores.csproj",
+      "projectPath": "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\EXERCÍCIOS\\Exercícios de fixação\\Ex6-Vetores\\Ex6-Vetores.csproj",
       "packagesPath": "C:\\Users\\Luisa Oliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\Exercícios de fixação\\Ex6-Vetores\\obj\\",
+      "outputPath": "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\EXERCÍCIOS\\Exercícios de fixação\\Ex6-Vetores\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

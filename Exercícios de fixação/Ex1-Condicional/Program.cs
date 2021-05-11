@@ -13,9 +13,9 @@ namespace Ex1_Condicional
 
             int operacao = atual - idade;
 
-            if (operacao > 16)
+            if (operacao >= 16)
             {
-                if (operacao > 18)
+                if (operacao >= 18)
                 {
                     Console.WriteLine("O seu voto é obrigatório.");
                 }else{

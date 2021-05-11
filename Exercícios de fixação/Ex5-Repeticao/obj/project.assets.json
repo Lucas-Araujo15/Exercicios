@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\Exercícios de fixação\\Ex5-Repeticao\\Ex5-Repeticao.csproj",
+      "projectUniqueName": "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\EXERCÍCIOS\\Exercícios de fixação\\Ex5-Repeticao\\Ex5-Repeticao.csproj",
       "projectName": "Ex5-Repeticao",
-      "projectPath": "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\Exercícios de fixação\\Ex5-Repeticao\\Ex5-Repeticao.csproj",
+      "projectPath": "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\EXERCÍCIOS\\Exercícios de fixação\\Ex5-Repeticao\\Ex5-Repeticao.csproj",
       "packagesPath": "C:\\Users\\Luisa Oliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\Exercícios de fixação\\Ex5-Repeticao\\obj\\",
+      "outputPath": "C:\\Users\\Luisa Oliveira\\Documents\\LUCAS\\EXERCÍCIOS\\Exercícios de fixação\\Ex5-Repeticao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
