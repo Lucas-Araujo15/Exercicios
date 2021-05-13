@@ -49,6 +49,7 @@ _________________________
                 switch (menu)
                 {
                     case 1:
+                    Console.Clear();
                         do
                         {
                             if (i <= 4)
@@ -72,11 +73,13 @@ _________________________
 
                                 if (confirmacao == "s")
                                 {
+                                    Console.Clear();
                                     repetir = true;
                                     i++;
                                 }
                                 else
                                 {
+                                    Console.Clear();
                                     voltarMenu = true;
                                     repetir = false;
                                     i++;
@@ -94,6 +97,7 @@ _________________________
                         } while (repetir);
                         break;
                     case 2:
+                    Console.Clear();
                         if (i == 0)
                         {
                             Console.ForegroundColor = ConsoleColor.Red;
@@ -119,10 +123,12 @@ ______________________________
                         voltarMenu = true;
                         break;
                     case 0:
+                    Console.Clear();
                         Console.WriteLine("Obrigado e volte sempre!");
                         voltarMenu = false;
                         break;
                     default:
+                    Console.Clear();
                         Console.WriteLine("Escolha alguma das opções apresentadas.");
                         voltarMenu = true;
                         break;
