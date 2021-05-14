@@ -1,0 +1,16 @@
+C:\Users\Luisa Oliveira\Documents\LUCAS\EXERCÍCIOS\Sistema de Produtos1\bin\Debug\net5.0\Sistema de Produtos1.exe
+C:\Users\Luisa Oliveira\Documents\LUCAS\EXERCÍCIOS\Sistema de Produtos1\bin\Debug\net5.0\Sistema de Produtos1.deps.json
+C:\Users\Luisa Oliveira\Documents\LUCAS\EXERCÍCIOS\Sistema de Produtos1\bin\Debug\net5.0\Sistema de Produtos1.runtimeconfig.json
+C:\Users\Luisa Oliveira\Documents\LUCAS\EXERCÍCIOS\Sistema de Produtos1\bin\Debug\net5.0\Sistema de Produtos1.runtimeconfig.dev.json
+C:\Users\Luisa Oliveira\Documents\LUCAS\EXERCÍCIOS\Sistema de Produtos1\bin\Debug\net5.0\Sistema de Produtos1.dll
+C:\Users\Luisa Oliveira\Documents\LUCAS\EXERCÍCIOS\Sistema de Produtos1\bin\Debug\net5.0\ref\Sistema de Produtos1.dll
+C:\Users\Luisa Oliveira\Documents\LUCAS\EXERCÍCIOS\Sistema de Produtos1\bin\Debug\net5.0\Sistema de Produtos1.pdb
+C:\Users\Luisa Oliveira\Documents\LUCAS\EXERCÍCIOS\Sistema de Produtos1\obj\Debug\net5.0\Sistema de Produtos1.csprojAssemblyReference.cache
+C:\Users\Luisa Oliveira\Documents\LUCAS\EXERCÍCIOS\Sistema de Produtos1\obj\Debug\net5.0\Sistema de Produtos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luisa Oliveira\Documents\LUCAS\EXERCÍCIOS\Sistema de Produtos1\obj\Debug\net5.0\Sistema de Produtos1.AssemblyInfoInputs.cache
+C:\Users\Luisa Oliveira\Documents\LUCAS\EXERCÍCIOS\Sistema de Produtos1\obj\Debug\net5.0\Sistema de Produtos1.AssemblyInfo.cs
+C:\Users\Luisa Oliveira\Documents\LUCAS\EXERCÍCIOS\Sistema de Produtos1\obj\Debug\net5.0\Sistema de Produtos1.csproj.CoreCompileInputs.cache
+C:\Users\Luisa Oliveira\Documents\LUCAS\EXERCÍCIOS\Sistema de Produtos1\obj\Debug\net5.0\Sistema de Produtos1.dll
+C:\Users\Luisa Oliveira\Documents\LUCAS\EXERCÍCIOS\Sistema de Produtos1\obj\Debug\net5.0\ref\Sistema de Produtos1.dll
+C:\Users\Luisa Oliveira\Documents\LUCAS\EXERCÍCIOS\Sistema de Produtos1\obj\Debug\net5.0\Sistema de Produtos1.pdb
+C:\Users\Luisa Oliveira\Documents\LUCAS\EXERCÍCIOS\Sistema de Produtos1\obj\Debug\net5.0\Sistema de Produtos1.genruntimeconfig.cache
